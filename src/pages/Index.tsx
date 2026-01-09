@@ -45,10 +45,7 @@ const Dashboard = () => {
 
             {/* Robot Info */}
             <div className="lg:w-1/2 flex flex-col justify-center">
-              <span className="text-xs font-semibold tracking-wider text-primary uppercase">
-                Active Unit
-              </span>
-              <h2 className="text-3xl font-bold text-foreground mt-2 mb-4">
+              <h2 className="text-3xl font-bold text-foreground mb-4">
                 EcoHarvester X1
               </h2>
               <p className="text-muted-foreground leading-relaxed mb-6">
