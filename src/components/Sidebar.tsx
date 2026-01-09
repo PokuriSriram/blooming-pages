@@ -43,7 +43,7 @@ export const Sidebar = () => {
       <div className="p-4 border-t border-sidebar-border">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-full bg-muted flex items-center justify-center">
-            <span className="text-sm font-medium text-muted-foreground">Uspan>
+            <span className="text-sm font-medium text-muted-foreground">U</span>
           </div>
           <div>
             <p className="text-sm font-medium text-foreground">Profile</p>
