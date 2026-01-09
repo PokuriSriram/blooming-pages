@@ -46,7 +46,7 @@ const Dashboard = () => {
             {/* Robot Info */}
             <div className="lg:w-1/2 flex flex-col justify-center">
               <h2 className="text-3xl font-bold text-foreground mb-4">
-                EcoHarvester X1
+                AgriBot X1
               </h2>
               <p className="text-muted-foreground leading-relaxed mb-6">
                 Advanced autonomous agricultural assistant designed for
